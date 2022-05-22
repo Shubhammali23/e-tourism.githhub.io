@@ -1,0 +1,37 @@
+.body {
+    background-image: url('../Images/backgroud.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.form h1{
+    /* background-color: rgb(255, 82, 82); */
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+
+}
+
+.border{
+    border: 3px;
+    /* background-color:paleturquoise; */
+    color:rgb(7, 6, 6);
+    margin: 10px 150px;
+}
+
+.border h2{
+    margin-left: 50px;
+}
+
+.border1 h5{
+    margin-left: 30px;
+}
+
+.space{
+    margin-left: 182px;
+    margin-bottom: 10px;
+}
+.footer{
+    background-color: rgb(3, 3, 3)
+}
